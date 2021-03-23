@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carta.Consola", "Carta.Consola\Carta.Consola.csproj", "{B6F6CC72-F409-4128-A763-970A049604D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carta.Libreria", "Carta.Libreria\Carta.Libreria.csproj", "{06FE961E-67ED-45E5-9000-177EE10269C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6F6CC72-F409-4128-A763-970A049604D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F6CC72-F409-4128-A763-970A049604D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F6CC72-F409-4128-A763-970A049604D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F6CC72-F409-4128-A763-970A049604D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06FE961E-67ED-45E5-9000-177EE10269C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FE961E-67ED-45E5-9000-177EE10269C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FE961E-67ED-45E5-9000-177EE10269C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FE961E-67ED-45E5-9000-177EE10269C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {835ADF3F-D89D-4111-A845-13AB01E079CE}
+	EndGlobalSection
+EndGlobal
